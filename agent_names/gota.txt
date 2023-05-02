@@ -1,4 +1,5 @@
 mmdd: 1105
-rn1: 386
+colour: red
+rn1: 381
 rn2: 1227
 animal: rabbit
