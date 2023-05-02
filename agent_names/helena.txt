@@ -2,5 +2,3 @@
 •	mmdd:0309
 •	rn1:3
 •	rn2: 13
-•	animal: narwhal
-•	colour: green
