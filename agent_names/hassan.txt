@@ -1,5 +1,5 @@
 colour: red
-mmdd:1509
+mmdd:0312
 rn1: 811
 rm2: 11
 animal: octopus
