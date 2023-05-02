@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 colour: red
 mmdd: 0303
 rn1: 789
