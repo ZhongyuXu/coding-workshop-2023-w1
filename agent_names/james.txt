@@ -1,5 +1,5 @@
 mmdd: 1224
-rn1: 378
+rn1: 376
 rn2: 1453
 animal: octopus
 colour: orange
